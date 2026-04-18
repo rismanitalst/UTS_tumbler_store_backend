@@ -3,8 +3,8 @@ package services
 import (
 	"errors"
 
-	"github.com/rismanitalst/UTS_tumbler_store/models"
-	"github.com/rismanitalst/UTS_tumbler_store/repositories"
+	"github.com/rismanitalst/UTS_tumbler_store_backend/models"
+	"github.com/rismanitalst/UTS_tumbler_store_backend/repositories"
 )
 
 type ProductService struct {

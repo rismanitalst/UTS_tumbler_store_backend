@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/rismanitalst/UTS_tumbler_store/models"
+	"github.com/rismanitalst/UTS_tumbler_store_backend/models"
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"
 	"gorm.io/gorm/logger"

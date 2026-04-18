@@ -5,8 +5,8 @@ import (
 	"os"
 
 	"github.com/joho/godotenv"
-	"github.com/rismanitalst/UTS_tumbler_store/config"
-	"github.com/rismanitalst/UTS_tumbler_store/routes"
+	"github.com/rismanitalst/UTS_tumbler_store_backend/config"
+	"github.com/rismanitalst/UTS_tumbler_store_backend/routes"
 )
 
 func main() {

@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/rismanitalst/UTS_tumbler_store/services"
+	"github.com/rismanitalst/UTS_tumbler_store_backend/services"
 	"github.com/gin-gonic/gin"
 )
 

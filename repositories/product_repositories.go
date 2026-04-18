@@ -1,8 +1,8 @@
 package repositories
 
 import (
-	"github.com/rismanitalst/UTS_tumbler_store/config"
-	"github.com/rismanitalst/UTS_tumbler_store/models"
+	"github.com/rismanitalst/UTS_tumbler_store_backend/config"
+	"github.com/rismanitalst/UTS_tumbler_store_backend/models"
 )
 
 type ProductRepository struct{}

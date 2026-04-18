@@ -1,4 +1,4 @@
-module github.com/rismanitalst/UTS_tumbler_store
+module github.com/rismanitalst/UTS_tumbler_store_backend
 
 go 1.26.2
 

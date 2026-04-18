@@ -8,9 +8,9 @@ import (
 	"time"
 
 	"github.com/golang-jwt/jwt/v4"
-	"github.com/rismanitalst/UTS_tumbler_store/config"
-	"github.com/rismanitalst/UTS_tumbler_store/models"
-	"github.com/rismanitalst/UTS_tumbler_store/repositories"
+	"github.com/rismanitalst/UTS_tumbler_store_backend/config"
+	"github.com/rismanitalst/UTS_tumbler_store_backend/models"
+	"github.com/rismanitalst/UTS_tumbler_store_backend/repositories"
 	"gorm.io/gorm"
 )
 

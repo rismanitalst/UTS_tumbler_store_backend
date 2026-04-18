@@ -2,8 +2,8 @@ package routes
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/rismanitalst/UTS_tumbler_store/handlers"
-	"github.com/rismanitalst/UTS_tumbler_store/middleware"
+	"github.com/rismanitalst/UTS_tumbler_store_backend/handlers"
+	"github.com/rismanitalst/UTS_tumbler_store_backend/middleware"
 )
 
 func SetupRouter() *gin.Engine {

@@ -5,8 +5,8 @@ import (
 	"strconv"
 
 	"github.com/gin-gonic/gin"
-	"github.com/rismanitalst/UTS_tumbler_store/models"
-	"github.com/rismanitalst/UTS_tumbler_store/services"
+	"github.com/rismanitalst/UTS_tumbler_store_backend/models"
+	"github.com/rismanitalst/UTS_tumbler_store_backend/services"
 )
 
 type ProductHandler struct {
